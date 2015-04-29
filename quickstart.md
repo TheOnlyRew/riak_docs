@@ -11,8 +11,7 @@ moved: {
 }
 ---
 
-I'm going to pretend that this is a typo fix, authored in the docs_builder repo,
-hopefully committed against the riak_docs repo.
+this time, I'm going to see about making a new branch in a subtree repo...
 
 In this tutorial, we'll share some quick start installers for OSX, as 
 well as provide instructions for building a
