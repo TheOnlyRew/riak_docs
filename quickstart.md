@@ -11,8 +11,8 @@ moved: {
 }
 ---
 
-I'm going to pretend that this is a typo fix, authored in the docs_builder repo,
-hopefully committed against the riak_docs repo.
+This time, I'm going to see about importing changes from a new branch created in
+the subtree repo. Check out how I've fixed a bunch of spelling mistakes.
 
 In this tutorial, we'll share some quick start installers for OSX, as 
 well as provide instructions for building a
