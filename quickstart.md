@@ -11,6 +11,9 @@ moved: {
 }
 ---
 
+I'm going to pretend that this is a typo fix, authored in the docs_builder repo,
+hopefully committed against the riak_docs repo.
+
 In this tutorial, we'll share some quick start installers for OSX, as 
 well as provide instructions for building a
 [five-node](http://basho.com/why-your-riak-cluster-should-have-at-least-five-nodes/)
